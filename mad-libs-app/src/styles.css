@@ -1,0 +1,33 @@
+.myContainer {
+  background-color: lightskyblue;
+  border: 1px solid #000; /* Set the border width, style, and color */
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3); /* Set the box shadow properties */
+  border-radius: 10px; /* Set the border radius */
+  max-width: 500px; /* Set the maximum width of the container */
+  margin: 0 auto; /* Center the container on the screen */
+  padding: 20px; /* Add some padding inside the container */
+  text-align: center;
+}
+
+  .error-message {
+    color: rgb(189, 0, 0);
+    font-size: 14px;
+  }
+
+.story {
+  text-align: center;
+  font-size: 16px;
+}
+
+.generate-btn {
+  outline: none;
+  background-color: rgb(0, 97, 183);
+  border-radius: 5px;
+  color: white;
+}
+
+.generate-btn:hover {
+  cursor: pointer;
+  background-color: black;
+
+}
